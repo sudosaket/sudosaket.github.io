@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Saket Mehta&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 14:24:54 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2019 15:04:42 +0530</lastBuildDate>
     
 	<atom:link href="https://sudosaket.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello, world!s</title>
+      <link>https://sudosaket.com/post/hello-world/</link>
+      <pubDate>Fri, 14 Jun 2019 15:04:42 +0530</pubDate>
+      
+      <guid>https://sudosaket.com/post/hello-world/</guid>
+      <description>It&amp;rsquo;s been some time since I wanted to just write something! You know what, “some time” isn’t even close. It&amp;rsquo;s been years.
+Given that I am a master procrastinator, I would like this post to be the perfect post in case I never come around to write more.
+Statistically speaking, that would be one which could also serve as the last post. And therefore, adiós! It was great journey, this wonderful hobby, but I am onto something better now, far less challenging than writing of course!</description>
+    </item>
     
     <item>
       <title>About Me</title>
@@ -17,7 +28,7 @@
       <pubDate>Mon, 20 May 2019 14:24:54 +0530</pubDate>
       
       <guid>https://sudosaket.com/post/about-me/</guid>
-      <description>Hello, world!</description>
+      <description>Ready Player Gone.</description>
     </item>
     
   </channel>
